@@ -1,2 +1,2 @@
 # Emperor Toni
-JUst Make Money
+Just Make Money
