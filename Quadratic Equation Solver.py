@@ -20,7 +20,7 @@ def quadratic_equation_solver():
         x = (-b + np.sqrt(b ** 2 - 4 * a * c)) / (2 * a)
         y = (-b - np.sqrt(b ** 2 - 4 * a * c)) / (2 * a)
         if x == y:
-            print("Solution is ", x)
+            print("Solution is", x)
         else:
             print("Solutions are: ", x, ",", y)
         quit()
